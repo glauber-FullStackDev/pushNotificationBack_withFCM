@@ -2,6 +2,8 @@
 
 This project aims to facilitate the configuration of a push notification sending system, standardizing an endpoint structure - Using FCM (FIREBASE).
 
+![Alt text](firebase.png?raw=true "firebase")
+
 ---
 ## Requirements
 
